@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Stefanos 👋</h2>
 
 [![Follow me on Twitter](https://img.shields.io/badge/Tweet--lightgrey?logo=twitter&style=social)](https://twitter.com/stefanos_lig)
-[![Follow me on GitHub]([https://img.shields.io/github/followers](https://img.shields.io/github/followers)/stefanoslig?style=social)](https://github.com/stefanoslig)
+[![Follow me on GitHub](https://img.shields.io/github/followers/stefanoslig?style=social)](https://github.com/stefanoslig)
 [![Linkedin network](https://img.shields.io/badge/LinkedIn-blue?style=social)](https://www.linkedin.com/in/stefanoslignos)
 
 
