@@ -2,7 +2,7 @@
 
 [![Follow me on Twitter](https://img.shields.io/twitter/follow/stefanos_lig?logo=twitter&style=social)](https://twitter.com/stefanos_lig)
 [![Follow me on GitHub](https://img.shields.io/github/followers/stefanoslig?style=social)](https://github.com/stefanoslig)
-[![Linkedin network](https://img.shields.io/badge/LinkedIn-blue?style=social)](https://www.linkedin.com/in/stefanoslignos)
+[![Linkedin network](https://img.shields.io/badge/LinkedIn-blue/stefanoslignos?style=social)](https://www.linkedin.com/in/stefanoslignos)
 
 
 
